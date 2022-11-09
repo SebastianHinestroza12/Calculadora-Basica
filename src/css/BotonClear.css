@@ -1,21 +1,21 @@
-.boton-clear{
-    height: 80px;
-    font-size:1.6em;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    display: flex;
-    flex: 1;
-    background-color: rgba(194, 4, 4, 0.719);
-    margin-top: 8px;
-    justify-content: center;
-    align-items: center;
-    font-weight: bold;
-    cursor: pointer;
-    color: #fff;
-    border-radius: 25px;
-    border: 2px solid #fff;
-    user-select: none;
+.boton-clear {
+  height: 80px;
+  font-size: 1.6em;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+  flex: 1;
+  background-color: rgba(194, 4, 4, 0.719);
+  margin-top: 8px;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  cursor: pointer;
+  color: #fff;
+  border-radius: 25px;
+  border: 2px solid #fff;
+  user-select: none;
 }
 
-.boton-clear:hover{
-    background-color: #5a01a7;
+.boton-clear:hover {
+  background-color: #5a01a7;
 }
